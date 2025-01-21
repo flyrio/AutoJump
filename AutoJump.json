@@ -1,0 +1,27 @@
+{
+    "Author": "Shiyuvi",
+    "Name": "Fate辅助器",
+    "Punchline": "Fate智能拉怪工具",
+    "Description": "测试中，需要SND脚本支持，视情况后续增加bzy等地图的半自动拉晶簇怪",
+    "InternalName": "AutoJump",
+    "AssemblyVersion": "0.0.1",
+    "TestingAssemblyVersion": "0.0.1",
+    "RepoUrl": "https://github.com/flyrio/Fate",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": 10,
+    "TestingDalamudApiLevel": 10,
+    "LoadRequiredState": 2,
+    "LoadSync": true,
+    "LoadPriority": 0,
+    "CanUnloadAsync": false,
+    "SupportsProfiles": false,
+    "IsTestingExclusive": false,
+    "IconUrl": "https://github.com/ktisis-tools/Ktisis/raw/main/icon.png",
+    "DownloadLinkInstall": "https://github.com/flyrio/AutoJump/raw/refs/heads/main/AutoJump.zip",
+    "DownloadLinkTesting": "https://github.com/flyrio/AutoJump/raw/refs/heads/main/AutoJump.zip",
+    "DownloadLinkUpdate": "https://github.com/flyrio/AutoJump/raw/refs/heads/main/AutoJump.zip",
+    "Tags": [
+        "Fate",
+        "Auto"
+    ]
+}
